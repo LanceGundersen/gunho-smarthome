@@ -2,8 +2,8 @@
 # Created by https://www.gitignore.io/api/linux,macos,windows
 
 # Don't include private password and config files
-private.h
-private.gch
+Private.h
+Private.gch
 
 ### Linux ###
 *~
